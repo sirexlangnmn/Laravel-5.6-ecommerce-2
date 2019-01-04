@@ -1,0 +1,1 @@
+nilagay ko yung image dito dahil mahirap mag link ng image sa css dito sa Laravel.

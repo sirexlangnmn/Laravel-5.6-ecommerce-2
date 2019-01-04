@@ -1,0 +1,11 @@
+/** Your theme modifications here **/
+
+
+.comment-reply{
+	display: none;
+}
+
+
+.display-none{
+	display: none;
+}
